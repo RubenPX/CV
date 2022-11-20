@@ -1,0 +1,30 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Roboto", sans-serif
+}
+
+.main-content {
+  max-width:1400px;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.ml-40 {
+  margin-left: 40px;
+}
+
+.title-name {
+  position: absolute; width: 300px;
+}
+
+.profile-image {
+  height: 300px; display: block; opacity: 1; image-rendering: pixelated; margin: auto; z-index: 0;
+}
